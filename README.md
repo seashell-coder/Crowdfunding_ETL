@@ -16,7 +16,8 @@ Content of Repository
    	- subcategory.csv --> created through ETL_Mini_Project_MMubarak_NWoltman_SHakim.ipynb
    	- contacts.csv--> created through ETL_Mini_Project_MMubarak_NWoltman_SHakim.ipynb
 - crowdfunding_db_schema.sql --> created through pgAdmin using PostgreSQL
-- ERD_Crowdfunding_db_png --> image of crowdfunding physical diagram 
+- ERD_Crowdfunding_db_png --> image of crowdfunding physical diagram
+-  ETL_Mini_Project_MMubarak_NWoltman_SHakim.ipynb --> Jupyter Notebook for this project
 
 <br/>
 
